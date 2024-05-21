@@ -4,6 +4,7 @@
 
 ### Tecnologias Usadas
 <li>Java 11</li>
+<li>gson -> library</li>
 
 ### Introdução para rodar o projeto
 Clone o repositório com o comando **git clone**:
